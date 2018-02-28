@@ -2,8 +2,7 @@
 Prosjekt for å komme i gang med programmering og utvikling. 
 
 Oppgaver for å komme i gang:
-- Fiks GitHub
-- Fiks trello
-- Sette seg inn i Switch
+- Sette seg inn i React
+- Pump opp allerede lagde filer
 
 SourceTree er et støtte programvare for GitHub og BitBucket for bedre GUI og bedre for branching, det er verdt å sjekke ut (ikke for MAC). 
